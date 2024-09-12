@@ -1,0 +1,26 @@
+/* AdminDashboard.css */
+.admin-dashboard-container {
+    margin-top: 30px;
+  }
+  
+  .admin-dashboard-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .admin-dashboard-container h3 {
+    margin-top: 40px;
+  }
+  
+  .admin-dashboard-container table {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .table {
+    margin-bottom: 50px;
+  }
+  
